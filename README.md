@@ -1,5 +1,5 @@
 # Sonho++
->This platform game was developed as the final project for the TEC-PROG course at UTFPR. Implemented in C++ using the SFML (Simple and Fast Multimedia Library) graphics library.
+>This platform game was developed as the final project for the Programming Techniques course at UTFPR. Implemented in C++ using the SFML (Simple and Fast Multimedia Library) graphics library.
 
 The **Sonho++** game tells the brief journey of a wizard in the underworld of dreams. In this dark and dilapidated place, the hero fights shadowy creatures that, if freed, will cause nightmares for all living beings! The Sonho++ wizard has no name—he too is a being from this strange realm. Unlike typical fantasy portrayals, he doesn't cast fireballs or summon runic creatures to fight for him. In Sonho++, the wizard's power is unique: **his magical aura**! By touching the shadowy creatures lurking in the dream underworld, the hero destroys them, as his magic is highly damaging to enemies.
 
